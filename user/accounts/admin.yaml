@@ -1,0 +1,11 @@
+email: elingerojo2@hotmail.com
+fullname: 'Lalo Mtz'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$W.8ViBSsLk58rw4tJScyB.E5zdzGpFx0CzXjRxqQEfmkDD6fgAe0y

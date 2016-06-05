@@ -1,3 +1,12 @@
+# Grav Specific
+.sass-cache
+composer.lock
+cache/*
+#assets/*
+#logs/* #Added .gitignore in folder
+#images/*
+#user/data/* #Added .gitignore in folder
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

@@ -1,0 +1,45 @@
+title: Credi-m&oacute;metro  # Name of the site
+author:
+  name: Lalo Mtz
+metadata:
+    description: 'Introducci&oacute;n al servicio en l&iacute;nea de asistencia para obtener un cr&eacute;dito bancario en forma r&acute;pida.'
+
+# TopBar
+logo:
+  icon: logo
+  text: Credi-m&oacute;metro
+  url:
+
+# User Panel
+userlinks:
+    - text: Sample link
+      url: "#"
+    - text: Another Sample link
+      url: "#"
+
+# Header customization
+header:
+  title: Credi-m&oacute;metro, inovaci&oacute;n crediticia.
+  description: Obt&eacute;n un cr&eacute;dito bancario, <em>casi</em> sin ir al banco.
+#  buttons:
+#    - text: "Some Button"
+#      url: "http://tympanus.net/codrops/?p=19439"
+#      icon: "sketch"
+
+# Footer customization
+footer:
+  links:
+    - text: T&eacute;minos &amp; Condiciones
+      url: "#"
+    - text: Legales
+      url: "#"
+
+#Social Count
+socialcount:
+    url: http://www.getgrav.org
+    facebook_url: "#"
+    twitter_url: "http://www.twitter.com/getgrav"
+    linkedin_url: "#"
+
+#Copyright
+copyright: Credi-m&oacute;metro 2016
