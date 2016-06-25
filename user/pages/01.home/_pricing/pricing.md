@@ -2,59 +2,61 @@
 title: Precios
 pricing:
     -
-        title: Plan Explora
-        description: 'Crea tu expediente personal siguiendo los ejemplos.'
+        title: Plan Incognito
+        description: 'Explora y crea expedientes de cr&eacute;dito sin proporcionar informaci&oacute;n personal.'
         currency: ''
         price: Gratis
         period: ''
         features:
             -
-                item: 'Incluye uso personal ilimitado'
+                item: 'No requiere registrarse ni proporcionar informaci&oacute;n personal'
+            -
+                item: 'Incluye uso ilimitado'
             -
                 item: 'Expediente y "SCORES" b&aacute;sicos'
             -
                 item: 'Generaci&oacute;n resultados en PDF'
             -
                 item: 'Asistencia por CHAT y correo electr&oacute;nico'
-            -
-                item: 'Cambie de PLAN cuando guste'
         button_url: '#'
-        button_text: Plan Explora
+        button_text: Plan Incognito
         highlighted: false
         additional_css: wp-5
     -
-        title: Plan Valida
-        description: 'Valida y certifica tu expediente "a Prueba de Balas".'
-        currency: '%'
-        price: 2
-        period: 'del credito'
+        title: Plan Colaborador
+        description: 'Valida y certifica tu expediente "a Prueba de Balas" en colaboraci&oacute;n con tu contador.'
+        currency: ''
+        price: Gratis
+        period: ''
         features:
             -
-                item: 'Incluye todo el Plan EXPLORA'
+                item: 'Colaboraci&oacute;n Multi-Usuario y Multi-Dispositivos'
             -
                 item: 'Expediente y "SCORES" avanzados'
             -
                 item: 'Validaci&oacute;n en Bur&oacute; y servicios crediticios'
             -
-                item: 'Asistencia por correo electrónico PREMIUM (Respuesta en 24 horas máximo)'
+                item: 'Generaci&oacute;n resultados en PDF'
             -
-                item: 'Se paga solo si recibes el dinero del Banco'
+                item: 'Asistencia telefónica programada'
         button_url: '#'
-        button_text: Plan Valida
+        button_text: Plan Colaborador
         highlighted: true
     -
         title: Plan Asistido
-        description: 'Recibe asistencia real de un chofer para tramitaci&oacute;n y traslado de documentos.'
+        description: 'Recibe asistencia en persona de un ejecutivo.'
         currency: '%'
-        price: 3
+        price: 2
         period: 'del credito'
         features:
             -
-                item: 'Incluye todo el Plan VALIDA'
+                item: 'Asistencia en persona bajo cita'
             -
                 item: 'Asistencia telefónica programada'
             -
                 item: 'Asistencia en tramitaci&oacute;n y traslado de documentos faltantes'
+            -
+                item: 'Incluye todo el Plan COLABORADOR'
         button_url: '#'
         button_text: Plan Asistido
         highlighted: false
